@@ -1,0 +1,5 @@
+clown = imread('images/clown.jpg')
+%%
+clown(20,319 )
+
+imshow(clown)
