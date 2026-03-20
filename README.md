@@ -28,7 +28,8 @@ Script created 'Rotate.m'
 
 Image rotated successfully
 
-![The image appears to be a black and white photograph or illustration of a dis...](images/image1.png)
+<img width="757" height="481" alt="image" src="https://github.com/user-attachments/assets/7c875c82-4346-4381-957c-da64ce2ff27f" />
+
 
 ## Task 2 -- Image Shearing 
 
@@ -36,7 +37,8 @@ Script created 'Shear.m'
 
 Image sheared successfully
 
-![The image shows a black and white abstract art piece featuring a detailed, te...](images/image2.png)
+<img width="793" height="511" alt="image" src="https://github.com/user-attachments/assets/4a48fad1-fa35-4ae4-ac40-f7f4aff1b64e" />
+
 
 # Lab 2 -- Seeing Colours and Shapes
 
@@ -144,29 +146,34 @@ Image displayed
 
 Image converted to greyscale
 
-![The image shows a still life arrangement of various vegetables and fruits, in...](images/image3.png)
+<img width="698" height="527" alt="image" src="https://github.com/user-attachments/assets/1ee4974c-a435-4a2a-8af2-f967ae7d4455" />
+
 
 Images displayed side by side
 
-![The image shows a comparison between an original color image of various color...](images/image4.png)
+<img width="791" height="332" alt="image" src="https://github.com/user-attachments/assets/a400a881-5be7-4ce0-8e53-08a09669671b" />
+
 
 ## Task 11 -- Splitting and image into separate channels 
 
 Image split successfully
 
-![The image displays a series of black and white photographs featuring a single...](images/image5.png)
+<img width="767" height="205" alt="image" src="https://github.com/user-attachments/assets/e7ef3dbb-1412-4d4f-b236-bdd836e0fed9" />
+
 
 ## Task 12 - Map RGB image to HSV space and into separate channels
 
 Image successfully split into HSV space separate channels.
 
-![The image appears to be a comparison of two contrasting images, possibly show...](images/image6.png)
+<img width="782" height="203" alt="image" src="https://github.com/user-attachments/assets/24d3b909-2d89-40fb-8104-3e73a97bfb0e" />
+
 
 ## Task 13 -- Map RGB image to XYZ space
 
 Image successfully split into XYZ space separate channels.
 
-![The image is a black and white photograph showcasing a series of identical, r...](images/image7.png)
+<img width="805" height="206" alt="image" src="https://github.com/user-attachments/assets/6e5f0e95-ed93-4b37-bdf2-64f66f9a03bd" />
+
 
 # Lab 3 -- Intensity transforms & Spatial filters
 
@@ -178,7 +185,8 @@ Intensity of pixel (3,10) = 28
 
 Display only top half of image:
 
-![The image depicts a close-up of a mammogram showing dense breast tissue and a...](images/image8.png)
+<img width="714" height="365" alt="image" src="https://github.com/user-attachments/assets/2159dc9a-54f6-445e-acd0-3988f1757422" />
+
 
 Maximum intensity value (of original image) = 21
 
@@ -186,7 +194,8 @@ Minimum intensity value (of original image) = 255
 
 Display only right side of image:
 
-![The image is a mammogram showing a dense breast tissue with a possible calcif...](images/image9.png)
+<img width="219" height="507" alt="image" src="https://github.com/user-attachments/assets/3980db35-c922-4dd6-862e-ccbd46c01181" />
+
 
 Negative Image
 
@@ -194,13 +203,15 @@ Display negative image and display both side by side:
 
 {original, imadjust}
 
-![The image shows a side-by-side comparison of two mammograms, one with a norma...](images/image10.png)
+<img width="940" height="562" alt="image" src="https://github.com/user-attachments/assets/352d118a-c570-4254-8bd4-d70cc6df24f3" />
+
 
 Gamma Correction
 
 After applying 'imadjust' for gamma correction:
 
-![The image shows a black and white mammogram scan on the left, depicting a bre...](images/image11.png)
+<img width="940" height="557" alt="image" src="https://github.com/user-attachments/assets/143796c1-035d-497d-b3b1-be4844dd3d93" />
+
 
 ## Task 2 -- Contrast-stretching transformation
 
@@ -208,7 +219,8 @@ Contrast stretching transformation applied successfully:
 
 {original, contrast stretched}
 
-![The image displays two X-ray images of human skeletons, one on each side, wit...](images/image12.png)
+<img width="493" height="781" alt="image" src="https://github.com/user-attachments/assets/7bf4586f-970e-4e32-acc7-f739ebda87d8" />
+
 
 The contrast stretched image makes it easier to see the contours of the
 body being imaged.
@@ -219,17 +231,21 @@ Image histogram created successfully:
 
 {original, histogram}
 
-![The image is a close-up, black and white photograph of several small, round, ...](images/image13.png)![The image displays a linear scale ranging from 0 to 7000, with evenly spaced ...](images/image14.png)
+<img width="366" height="367" alt="image" src="https://github.com/user-attachments/assets/054f6a31-90f2-417d-be69-d2996599248b" /><img width="347" height="366" alt="image" src="https://github.com/user-attachments/assets/bb554c7b-c656-4bd1-b923-f1025333e79b" />
+
+
 
 Image adjusted using *imadjust*:
 
 {original, imadjust}
 
-![The image shows a close-up comparison of two clusters of similar-looking, tex...](images/image15.png)
+<img width="727" height="373" alt="image" src="https://github.com/user-attachments/assets/1b59d56c-058c-49f7-9f3d-50ed34467ba8" />
+
 
 {histogram of imadjust}
 
-![The image displays a linear scale with values ranging from 0 to 7000, increas...](images/image16.png)
+<img width="420" height="440" alt="image" src="https://github.com/user-attachments/assets/523c4dd2-4691-47d5-9ba5-e52fe2cbaa4f" />
+
 
 The histogram is more evenly distributed across the spectrum compared to
 previously.
@@ -238,19 +254,22 @@ Histogram PDF and CDF
 
 {histogram PDF, histogram CDF}
 
-![The diagram appears to be a histogram or bar chart displaying the frequency d...](images/image17.png)
+<img width="527" height="567" alt="image" src="https://github.com/user-attachments/assets/83b20f0c-7fa1-4c59-9550-8fa484094726" />
 
 Histogram equalization
 
 {equalised histogram}
 
-![The diagram illustrates a transformation function where input intensity value...](images/image18.png)
+<img width="571" height="595" alt="image" src="https://github.com/user-attachments/assets/c8af9350-9230-4bfa-b2b2-89e6fe58de5b" />
+
 
 Plots of all three images and their histograms:
 
-![The image is a close-up microscopic view of various seeds or beans, likely wi...](images/image19.png)
+<img width="570" height="572" alt="image" src="https://github.com/user-attachments/assets/4ad6fd3b-3402-4591-9681-ae84bd0289c0" />
 
-![The provided text appears to be a sequence of numbers representing a countdow...](images/image20.png)
+
+<img width="500" height="543" alt="image" src="https://github.com/user-attachments/assets/e2d7ed66-d1d1-4ff8-b3bf-07cc4befd4d7" />
+
 
 ## Task 4 -- Noise reduction with lowpass filter
 
@@ -258,7 +277,8 @@ Noise reduction with lowpass filter applied successfully.
 
 {original, imfilter (average), imfilter (gaussian)}
 
-![The image is a close-up of a circuit board with various electronic components...](images/image21.png)
+<img width="477" height="459" alt="image" src="https://github.com/user-attachments/assets/8f96d7d0-28ff-46bc-89a9-e075aea6e3b2" />
+
 
 {histogram}
 
@@ -271,7 +291,8 @@ Result of median filtering:
 
 {original, median filter}
 
-![The image shows a close-up, magnified view of a circuit board with multiple e...](images/image22.png)
+<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/47602388-0d48-4fe8-ab37-ab422f4315c5" />
+
 
 The resulting image has significantly less noise than the original, but
 is less 'sharp'.
@@ -282,7 +303,8 @@ Image of moon sharpened successfully:
 
 {original, sharpened}
 
-![The image shows two close-up views of the moon\'s surface, revealing its crat...](images/image23.png)
+<img width="940" height="707" alt="image" src="https://github.com/user-attachments/assets/847d96b2-2c75-43c1-a5b6-b9e43bf770ce" />
+
 
 The result is a significant improvement over the original.
 
@@ -290,7 +312,8 @@ Applied Laplacian filter to enhance edges of moon:
 
 {original, Laplacian}
 
-![The image shows a side-by-side comparison of the lunar phases, with one side ...](images/image24.png)
+<img width="940" height="709" alt="image" src="https://github.com/user-attachments/assets/3638c6fe-ed8e-4f40-8e8a-1e3c702ea7ce" />
+
 
 ## Task 7 -- Test yourself Challenges
 
@@ -299,20 +322,23 @@ Contrast of image of tree and lake improved significantly using
 
 {original, imadjust version}
 
-![The image shows a serene lake with a solitary tree standing on a cliff, under...](images/image25.png)
+<img width="940" height="701" alt="image" src="https://github.com/user-attachments/assets/8b41f49d-92c6-47a0-8788-de63c591ac45" />
+
 
 Used sobel filter in combination with with 'edge' function to find the
 edges of the circles in the image:
 
-{original, filtered}\
-\
-![](images/image26.png)
+{original, filtered}
+
+<img width="940" height="360" alt="image" src="https://github.com/user-attachments/assets/d1e853dc-9885-41f3-af60-5a5fd8c1ec4d" />
+
 
 Loaded office image, improved contrast, then denoised, the sharpened:
 
 {original, imadjust, imfilter, sharpen}
 
-![](images/image27.png)
+<img width="940" height="628" alt="image" src="https://github.com/user-attachments/assets/73203c77-f49b-4c31-91b9-2b77e0db51b9" />
+
 
 Difficult to fully denoise the image.
 
@@ -324,11 +350,13 @@ Image dilation results:
 
 Done, Dilate (star), Dilate (ones, Dilate (diagonal)
 
-![The image displays a text document illustrating a historical coding issue whe...](images/image28.png)
+<img width="940" height="819" alt="image" src="https://github.com/user-attachments/assets/fa230680-448d-42d1-accf-a3e1ee89feb7" />
+
 
 Double dilation (single star dilate, double star dilate):
 
-![The document describes the historical use of two-digit years in computer prog...](images/image29.png)
+<img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/2fb25985-0048-42a6-92ac-7cb2e31b8f98" />
+
 
 Image erosion results:
 
@@ -337,7 +365,8 @@ Image erosion results:
 The higher the erosion disk size, thinner the white shapes become,
 progressively 'hiding' the lines from the original image.
 
-![The diagram shows a schematic representation of a circuit layout, possibly wi...](images/image30.png)
+<img width="873" height="526" alt="image" src="https://github.com/user-attachments/assets/43beb8e4-721a-4327-9122-b43b801f95e5" />
+
 
 ## Task 2 -- Morphological Filtering with Open and Close
 
@@ -346,27 +375,32 @@ dilated, image opened.
 
 Montage {original, eroded, dilated, opened}
 
-![The image depicts a visual representation of a fingerprint with four distinct...](images/image31.png)
+<img width="912" height="575" alt="image" src="https://github.com/user-attachments/assets/3c53f689-15a5-4269-9336-ef0a49e2ca43" />
+
 
 The resulting 'opened' image is clearer and has less noise that the
 original.
 
 Increasing 'strel square' size from 3 to 5:
 
-![The image appears to be a black and white diagram with a clear, white, finger...](images/image32.png)
+<img width="932" height="592" alt="image" src="https://github.com/user-attachments/assets/27aaac5c-d067-4bf7-873f-bd9126f16144" />
+
 
 The image was eroded too far, loosing data. Result is poor.
 
-Changing to 'strel disk' size 1:\
-\
-![The image depicts a visual representation of a fingerprint, with two distinct...](images/image33.png)
+Changing to 'strel disk' size 1:
+
+<img width="932" height="588" alt="image" src="https://github.com/user-attachments/assets/13eafcc6-9149-4875-8fe6-999cad105641" />
+
 
 Shape size must be smaller than square size to achieve similar results.
 
 Adding 'imclose' operation:
 
-{opened, closed}\
-![The image shows a black and white printout of a fingerprint, with a highlight...](images/image34.png)
+{opened, closed}
+
+<img width="940" height="369" alt="image" src="https://github.com/user-attachments/assets/0b9c9ccf-a371-42c0-b755-843d967d0b78" />
+
 
 The dark parts within the white lines of the fingerprint are 'filled
 in'. The result looks cleaner.
@@ -377,20 +411,23 @@ Converted image into binary image
 
 {original, imcomplement, imbinarize}
 
-![](images/image35.png)
+<img width="940" height="891" alt="image" src="https://github.com/user-attachments/assets/26844cdb-e29a-47da-893b-b8b2dfad4b26" />
+
 
 Eroded the binarized image, then subtracted from the original binarized
 image:
 
 {imcomplement, imbinarize, imerode, imbiniraze -- imerode}
 
-![](images/image36.png)
+<img width="940" height="882" alt="image" src="https://github.com/user-attachments/assets/6ded528e-0ebf-4508-ab4a-6e9a7eef5caa" />
+
 
 Improve result by adding a dilation step after erosion, then subtracting
 the eroded image from the dilated image. Result:
 
 {without dilation step, with dilation step}\
-![](images/image37.png)
+<img width="940" height="566" alt="image" src="https://github.com/user-attachments/assets/95d333d6-cab4-4714-93d5-ad6fdecfedc4" />
+
 
 The result has removed all the noise from the original.
 
@@ -400,19 +437,24 @@ Image converted to binary image:
 
 {original, binarized}
 
-![The image shows a side-by-side comparison of two fingerprints, one on a clear...](images/image38.png)
+<img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/67bc11a8-b827-476a-9694-981d71259ffc" />
+
 
 Thinning operation performed up to 5 times:
 
 {original, 1x thin, 2x, thin, 3x thin, 4x thin, 5x thin}
 
-![The image displays a black and white printout of a fingerprint, with each pri...](images/image39.png)
+<img width="940" height="812" alt="image" src="https://github.com/user-attachments/assets/7f236e3e-a0d8-4f2d-b939-1d94a7b7f1ee" />
+
 
 Thinning with infinite steps:
 
-![The image depicts a black and white fingerprint pattern with raised ridges. A...](images/image40.png)
+<img width="548" height="653" alt="image" src="https://github.com/user-attachments/assets/291e1c05-75c6-4f11-ab12-cf8cf838967d" />
 
-Changing colour of infinitely thinned image: ![The image depicts a detailed, whiteprinted fingerprint with a clear, visible ...](images/image41.png)
+
+Changing colour of infinitely thinned image: 
+<img width="546" height="654" alt="image" src="https://github.com/user-attachments/assets/6a82e6e5-fcd4-4a97-8579-369471e3f688" />
+
 
 Thinning/thickening focuses on the white areas. For the thinned *white*
 coloured fingerprint on black background, the same result can be
@@ -423,7 +465,9 @@ fingerprint on the white background.
 
 {original, *bwconncomp*}
 
-![The image depicts a diagram explaining how a watershed acts as a boundary sep...](images/image42.png)![A watershed is a ridge that separates regions drained by different river syst...](images/image43.png)
+<img width="404" height="406" alt="image" src="https://github.com/user-attachments/assets/dccaf2db-2202-4bd7-baf3-fa98a731c0be" /><img width="403" height="405" alt="image" src="https://github.com/user-attachments/assets/1dc5d380-8f35-4ca8-89e7-b1502cd9b6ec" />
+
+
 
 The 'ff' disappears after applying the *bwconncomp* function.
 
@@ -436,13 +480,15 @@ desired letters.
 
 {original, eroded, opened, recontstructed}
 
-![The image illustrates a sequence of steps in a programming process involving ...](images/image44.png)
+<img width="907" height="1042" alt="image" src="https://github.com/user-attachments/assets/88047c35-179a-452e-b1e8-a99bdd84d20e" />
+
 
 After using *imfill* function:
 
 {original, imfill}
 
-![The image contains a MATLAB code snippet demonstrating the use of \`cellfun\`...](images/image45.png)
+<img width="940" height="542" alt="image" src="https://github.com/user-attachments/assets/9882d799-83b9-4e76-88a0-590efb2c7888" />
+
 
 It seems that all the opening spaces inside the letters have been
 'filled in'.
@@ -451,7 +497,8 @@ It seems that all the opening spaces inside the letters have been
 
 {original, dilated, eroded, dilated -- eroded}
 
-![The image shows a series of cross-sectional views of a human skull, highlight...](images/image46.png)
+<img width="940" height="990" alt="image" src="https://github.com/user-attachments/assets/30d5eb35-9cca-4a8d-895b-7dcb53701b21" />
+
 
 The final image shows the difference between the dilated and eroded
 images. Effectively showing the 'contours of the original image.
@@ -470,7 +517,8 @@ Steps taken:
 
 {original, imfill, imadjust, binarize}
 
-![The image shows a close-up of a tooth, highlighting its intricate structure a...](images/image47.png)
+<img width="940" height="720" alt="image" src="https://github.com/user-attachments/assets/303e16c7-46fe-45ca-be42-333e818ee37c" />
+
 
 Subsequent steps taken:
 
@@ -481,7 +529,9 @@ Subsequent steps taken:
 
 {top filling, bottom filling}
 
-![The image is a black background with a single white cloud shape. AI-generated...](images/image48.png)![The image is a stark, black canvas with a single white line or shape. AI-gene...](images/image49.png)
+<img width="467" height="187" alt="image" src="https://github.com/user-attachments/assets/ea6374bd-03e0-47ec-ab50-1a15f73a19fe" /><img width="464" height="184" alt="image" src="https://github.com/user-attachments/assets/800f3302-8ee9-4e63-901a-950207046e20" />
+
+
 
 Result:
 
@@ -498,7 +548,8 @@ Result:
 It seems the large white blob is removed, but the smaller white dots
 remain.
 
-![The image appears to be a scientific illustration or diagram, possibly showin...](images/image50.png)
+<img width="940" height="938" alt="image" src="https://github.com/user-attachments/assets/d25f27b2-5eef-4e08-b367-44bd4d901b11" />
+
 
 ## Task 2 
 
@@ -510,51 +561,61 @@ The image ofter otsu thresholding using graytresh() does not work
 optimally, as the vells seem to be connected whereas in the original
 they seem to be separated.
 
-![The image displays a visual comparison of two images, one processed with Otsu...](images/image51.png)
+<img width="940" height="578" alt="image" src="https://github.com/user-attachments/assets/b4770bd5-87f1-444d-969f-0ec0e95887c8" />
+
 
 ## Task 5 -- Segmentation by k-means clustering
 
 Scatter plot of image 'baboon' :
 
-![The diagram displays a scatter plot with three categories (Blue, Green, Red) ...](images/image52.png)
+<img width="940" height="579" alt="image" src="https://github.com/user-attachments/assets/81d9da04-2aea-4db3-be61-ffab1670aa8a" />
+
 
 Scatter plot with k-means clustering (black dots):
 
-![](images/image53.png)
+<img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/7b111ef7-f9fb-4a87-90f9-ed24c7bfded0" />
+
 
 Image segmented into k colours:
 
 {original, segmented}
 
-![](images/image54.jpeg)
+<img width="940" height="473" alt="image" src="https://github.com/user-attachments/assets/243ec81d-77aa-45bc-a5b1-b11105d704e0" />
+
 
 Image 'peppers.png' scatter plot with k-means clustering:
 
-![](images/image55.png)
+<img width="940" height="570" alt="image" src="https://github.com/user-attachments/assets/f7e7e94f-abfc-49f4-9a98-88a59eaae932" />
+
 
 Image segmented into k colours:
 
 {original, segmented}
 
-![](images/image56.png)
+<img width="940" height="356" alt="image" src="https://github.com/user-attachments/assets/4df3c092-f5a5-47ad-8b3f-c1abcb8b4682" />
+
 
 ## Task 6 - Watershed Segmentation with Distance Transform
 
 Original and binarized image using watershed segmentation:
 
-![The image displays a black and white binary pattern consisting of numerous sm...](images/image57.png)
+<img width="940" height="387" alt="image" src="https://github.com/user-attachments/assets/1a0c38f9-4961-498b-ac9b-286fb0a20beb" />
+
 
 Distance transform image:
 
-![The image depicts a scattering of numerous, uniformly distributed points, eac...](images/image58.png)
+<img width="562" height="457" alt="image" src="https://github.com/user-attachments/assets/91dd463e-6272-4c07-a0e9-6d85e9d16ad6" />
+
 
 Watershed segmented label:
 
-![The diagram depicts a segmented watershed area with labels indicating differe...](images/image59.png)
+<img width="560" height="442" alt="image" src="https://github.com/user-attachments/assets/3cf47b0e-4c57-47bb-9ae3-de6d415aa754" />
+
 
 Montage of segmentation steps and results:
 
-![The image displays a series of binned images, including a binarized original ...](images/image60.png)
+<img width="940" height="724" alt="image" src="https://github.com/user-attachments/assets/f3df6ce6-34af-4d99-b589-4efbdffed6a9" />
+
 
 # Lab 6 
 
@@ -562,13 +623,15 @@ Montage of segmentation steps and results:
 
 Resizing image by a factor of 1/2, 1/4, 1/8, 1/16 and 1/32:
 
-![The image depicts a series of overlaid scenes showing a vibrant, starry night...](images/image61.png)
+<img width="662" height="554" alt="image" src="https://github.com/user-attachments/assets/d79711bc-c96c-45bb-b778-67215638248b" />
+
 
 It gets very 'blocky' at the end.
 
 Code redone using imresize() function:
 
-![The image shows a series of panoramic shots of a starry night street scene, w...](images/image62.png)
+<img width="662" height="553" alt="image" src="https://github.com/user-attachments/assets/b72edaf8-718b-4490-85b9-d353d0d0018a" />
+
 
 Result is a more diffused with smaller resizing values.
 
@@ -577,57 +640,68 @@ Result is a more diffused with smaller resizing values.
 NCC plot below can be used to manually identify the position of the
 template 1, as indicated by the peak:
 
-![The provided text appears to be a series of numerical values, likely represen...](images/image63.png)
+<img width="878" height="536" alt="image" src="https://github.com/user-attachments/assets/be46d533-27c8-4a1f-9b88-1f472e9ce0e9" />
+
 
 Automatic detection:
 
-![The image depicts a surreal landscape with a tree, a large, elongated snail s...](images/image64.jpeg)
+<img width="940" height="628" alt="image" src="https://github.com/user-attachments/assets/171ceddb-7c6b-442f-a629-34ab712e0bbe" />
+
 
 NCC plot for template 2:
 
-![The provided text appears to be a snippet of data or coordinates, likely from...](images/image65.png)
+<img width="940" height="565" alt="image" src="https://github.com/user-attachments/assets/f3e4a129-c8c4-4ecc-9b15-5fd9ee2ed57d" />
+
 
 Automatic detection:
 
-![](images/image66.jpeg)
+<img width="940" height="628" alt="image" src="https://github.com/user-attachments/assets/305b4c10-64ab-4a74-aa69-39bc0180c54d" />
+
 
 ## Task 3 - SIFT Feature Detection
 
 Result of DETECT SIFT features function:
 
-![The image depicts a landscape with various shells and geological formations, ...](images/image67.jpeg)
+<img width="940" height="628" alt="image" src="https://github.com/user-attachments/assets/aac45e9d-c6ef-4449-a1ce-ea046a401dc1" />
+
 
 The function identified multiple features on the original image.
 
 For the Van Gogh painting, sift points are as follows:
 
-![The image depicts a quaint, star-filled nighttime street in an old European t...](images/image68.png)
+<img width="674" height="820" alt="image" src="https://github.com/user-attachments/assets/2c8eeee8-f503-453e-bc9d-94092d7360bb" />
+
 
 ## SIFT Matching
 
 The figures below show the sift points for the original image, and the
 0.5x resized image:
 
-![The image depicts a quaint, star-filled nighttime street in an old European t...](images/image69.jpeg)![The image depicts a vibrant street scene at night, with colorful lights and a...](images/image70.jpeg)
+<img width="440" height="536" alt="image" src="https://github.com/user-attachments/assets/2203911b-4cb0-4264-881e-0c04cc8b229c" /><img width="439" height="534" alt="image" src="https://github.com/user-attachments/assets/df24558a-d28c-462a-bde8-748c46b5f05f" />
+
+
 
 As can be seen, some of the SIFT points match, but not all are present
 on both.
 
 Matching 'all points' between sets results in the following:
 
-![The image is a vibrant display of intersecting lines and colors, suggesting a...](images/image71.png)
+<img width="675" height="826" alt="image" src="https://github.com/user-attachments/assets/bbfddfa4-b2c6-4a97-adec-4b9a7db38e77" />
+
 
 Many points are shown here.
 
 By matching only 'best points' the following result is returned:
 
-![](images/image72.png)
+<img width="674" height="821" alt="image" src="https://github.com/user-attachments/assets/6388febd-4148-4390-ab4f-8c94e8d069c9" />
+
 
 This is much easier to verify and understand.
 
 Result after 20 degree imrotate() of the smaller image:
 
-![](images/image73.png)
+<img width="674" height="821" alt="image" src="https://github.com/user-attachments/assets/8e9cc3da-ae51-4672-9405-7e99b02d31b3" />
+
 
 The rotation of the image does not affect the result.
 
@@ -635,14 +709,16 @@ The rotation of the image does not affect the result.
 
 SIFT matches between traffic photos:
 
-![](images/image74.jpeg)
+<img width="940" height="290" alt="image" src="https://github.com/user-attachments/assets/88b4418a-ab4a-46c8-86cf-c18d16ab529f" />
+
 
 It seems the algorithm identified some of the moving cars, but not very
 well. It mostly focused on static features.
 
 SURF function matches between traffic photos:
 
-![](images/image75.jpeg)
+<img width="940" height="287" alt="image" src="https://github.com/user-attachments/assets/188c08d8-fb35-4992-944f-83d3e955179d" />
+
 
 The SURF algorithm did a much better job at identifying the differences
 between frames.
@@ -651,8 +727,10 @@ between frames.
 
 The code successfully identified a banana:
 
-![](images/image76.png)
+<img width="940" height="628" alt="image" src="https://github.com/user-attachments/assets/235d0a85-e83d-4804-b702-19abd2a09606" />
+
 
 The code identified an iPod (it was actually an iPhone):
 
-![](images/image77.png)
+<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/1bf79261-4e80-44dd-8507-4b707abb00eb" />
+
